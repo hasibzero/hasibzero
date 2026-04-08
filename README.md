@@ -41,9 +41,8 @@
 
 <p align="center">
   <a href="https://fb.com/hasibzero"><img src="https://skillicons.dev/icons?i=facebook" /></a>
-  <a href="https://linkedin.com/in/yourprofile"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="https://tiktok.com/@yourprofile"><img src="https://img.icons8.com/color/48/tiktok--v1.png"/></a>
-  <a href="https://snapchat.com/add/yourprofile"><img src="https://img.icons8.com/color/48/snapchat.png"/></a>
+  <a href="https://linkedin.com/in/hasibzero"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  
 </p>
 
 ---
@@ -72,20 +71,20 @@
 ## 🧩 Featured Projects
 
 🚀 **Tourism Website**
-🌐 Live: https://your-live-link.com
+🌐 Live: demo
 ⚙️ Tech: React, Node.js, MongoDB
 
 🛒 **E-commerce Platform**
-🌐 Live: https://your-live-link.com
+🌐 Live: demo
 ⚙️ Tech: Next.js, Tailwind
 
 💼 **Portfolio Website**
-🌐 Live: https://your-live-link.com
+🌐 Live: demo
 ⚙️ Tech: HTML, CSS, JavaScript
 
 ---
 
-## 👀 Profile Views
+##  Profile Views
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=hasibzeo&label=Profile%20Views&color=0e75b6&style=flat" />
