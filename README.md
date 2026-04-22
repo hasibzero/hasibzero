@@ -55,18 +55,7 @@
 
 ---
 
-## 📊 GitHub Analytics
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=hasibzeo&show_icons=true&theme=tokyonight&border_radius=10" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=hasibzeo&theme=tokyonight&border_radius=10" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hasibzeo&theme=tokyo-night" />
-</p>
-
----
 
 ## 🧩 Featured Projects
 
