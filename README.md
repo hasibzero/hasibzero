@@ -70,18 +70,33 @@
 
 ## 🧩 Featured Projects
 
-🚀 **Tourism Website**
-🌐 Live: demo
-⚙️ Tech: React, Node.js, MongoDB
+---
 
-🛒 **E-commerce Platform**
-🌐 Live: demo
-⚙️ Tech: Next.js, Tailwind
+### 🛒 DigiTools Platform
+> A modern e-commerce platform for browsing and purchasing digital tools with cart & checkout functionality.  
+🔗 [GitHub](https://github.com/hasibzero/digitools)  
+⚙️ **Tech:** React.js · Tailwind CSS · Vite · JavaScript
 
-💼 **Portfolio Website**
-🌐 Live: demo
-⚙️ Tech: HTML, CSS, JavaScript
+---
 
+### 📋 Job Application Tracker
+> Track your job applications with status management (Interview / Rejected / All) and live counters.  
+🔗 [GitHub](https://github.com/hasibzero/JobTracker)  
+⚙️ **Tech:** JavaScript · Tailwind CSS · DaisyUI
+
+---
+
+### 🐛 GitHub Issues Tracker
+> A login-protected dashboard for managing and tracking GitHub-style issues.  
+🔗 [GitHub](https://github.com/hasibzero/IssueTracker)  
+⚙️ **Tech:** JavaScript · Tailwind CSS · DaisyUI
+
+---
+
+### 💳 Payoo – Mobile Payment App
+> A multi-page mobile payment app with login, transfer, cashout, and bill payment flows.  
+🔗 [GitHub](https://github.com/hasibzero/Payoo-practice-project)  
+⚙️ **Tech:** JavaScript · Tailwind CSS · DaisyUI
 ---
 
 ##  Profile Views
