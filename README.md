@@ -42,7 +42,6 @@
 <p align="center">
   <a href="https://fb.com/hasibzero"><img src="https://skillicons.dev/icons?i=facebook" /></a>
   <a href="https://linkedin.com/in/hasibzero"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  
 </p>
 
 ---
@@ -55,40 +54,32 @@
 
 ---
 
-
-
 ## 🧩 Featured Projects
 
 ---
 
-### 🛒 DigiTools Platform
-> A modern e-commerce platform for browsing and purchasing digital tools with cart & checkout functionality.  
-🔗 [GitHub](https://github.com/hasibzero/digitools)  
-⚙️ **Tech:** React.js · Tailwind CSS · Vite · JavaScript
+### 📚 BookVault
+> A comprehensive web application for managing, discovering, and reviewing your favorite books.  
+🔗 [GitHub](https://github.com/hasibzero/BookVault)  
+⚙️ **Tech:** React.js · Node.js · MongoDB · Tailwind CSS
 
 ---
 
-### 📋 Job Application Tracker
-> Track your job applications with status management (Interview / Rejected / All) and live counters.  
-🔗 [GitHub](https://github.com/hasibzero/JobTracker)  
-⚙️ **Tech:** JavaScript · Tailwind CSS · DaisyUI
+### ✈️ Wanderlust Server
+> The backend RESTful API service built for a travel and destination booking platform.  
+🔗 [GitHub](https://github.com/hasibzero/wanderlast-server)  
+⚙️ **Tech:** Node.js · Express.js · MongoDB · JWT
 
 ---
 
-### 🐛 GitHub Issues Tracker
-> A login-protected dashboard for managing and tracking GitHub-style issues.  
-🔗 [GitHub](https://github.com/hasibzero/IssueTracker)  
-⚙️ **Tech:** JavaScript · Tailwind CSS · DaisyUI
+### 📰 Dragon News
+> A dynamic news portal web application featuring category-based news filtering and user authentication.  
+🔗 [GitHub](https://github.com/hasibzero/dragon-news)  
+⚙️ **Tech:** React.js · React Router · Tailwind CSS · Firebase
 
 ---
 
-### 💳 Payoo – Mobile Payment App
-> A multi-page mobile payment app with login, transfer, cashout, and bill payment flows.  
-🔗 [GitHub](https://github.com/hasibzero/Payoo-practice-project)  
-⚙️ **Tech:** JavaScript · Tailwind CSS · DaisyUI
----
-
-##  Profile Views
+## Profile Views
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=hasibzeo&label=Profile%20Views&color=0e75b6&style=flat" />
