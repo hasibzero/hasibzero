@@ -65,9 +65,9 @@
 
 ---
 
-### ✈️ Wanderlust Server
+### ✈️ Wanderlust
 > The backend RESTful API service built for a travel and destination booking platform.  
-🔗 [GitHub](https://github.com/hasibzero/wanderlast-server)  
+🔗 [GitHub](https://github.com/hasibzero/wanderlast)  
 ⚙️ **Tech:** Node.js · Express.js · MongoDB · JWT
 
 ---
