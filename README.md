@@ -7,11 +7,11 @@
 <!-- Typing Animation -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=500&lines=Web+Developer;MERN+Stack+Enthusiast;React+Lover;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=500&lines=Web+Developer;Full-Stack+Enthusiast;React+%26+Next.js;Always+Learning+New+Things" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Hasib S.</h1>
-<h3 align="center">🚀 Web Developer | MERN Stack Enthusiast</h3>
+<h3 align="center">🚀 Web Developer | Full-Stack Enthusiast</h3>
 
 ---
 
@@ -19,13 +19,13 @@
 
 ```diff
 + Passionate about building modern web apps
-+ Love React & JavaScript ecosystem
-+ Always exploring new tech (Next.js 🔥)
++ Love React, Next.js & the JavaScript ecosystem
++ Always exploring new tech & system architectures
 ```
 
 * 🔭 Currently working on web projects
-* 🌱 Exploring Next.js
-* 💬 Ask me about **React, JS, HTML**
+* 🌱 Exploring advanced Next.js features and full-stack patterns
+* 💬 Ask me about **React, Next.js, JS, Tailwind CSS**
 * ⚡ Fun fact: I turn coffee ☕ into code
 
 ---
@@ -42,6 +42,7 @@
 <p align="center">
   <a href="https://fb.com/hasibzero"><img src="https://skillicons.dev/icons?i=facebook" /></a>
   <a href="https://linkedin.com/in/hasibzero"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="https://hasibzero.github.io/myportofolio/"><img src="https://skillicons.dev/icons?i=devto" /></a>
 </p>
 
 ---
@@ -49,7 +50,7 @@
 ## ⚡ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb,mysql,tailwind,bootstrap,docker,git,github" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,mongodb,tailwind,bootstrap,git,github" />
 </p>
 
 ---
@@ -58,31 +59,31 @@
 
 ---
 
-### 📚 BookVault
-> A comprehensive web application for managing, discovering, and reviewing your favorite books.  
-🔗 [GitHub](https://github.com/hasibzero/BookVault)  
-⚙️ **Tech:** React.js · Node.js · MongoDB · Tailwind CSS
+### 🌟 Life Lesson Platform
+> A full-stack wisdom-sharing platform featuring role-based user/admin dashboards, Stripe monetization workflows, and content moderation.  
+🔗 [GitHub](https://github.com/hasibzero/life-lesson-client)  
+⚙️ **Tech:** Next.js · React · Tailwind CSS · Stripe API
 
 ---
 
-### ✈️ Wanderlust
-> The backend RESTful API service built for a travel and destination booking platform.  
-🔗 [GitHub](https://github.com/hasibzero/wanderlast)  
-⚙️ **Tech:** Node.js · Express.js · MongoDB · JWT
+### 💡 IdeaVault
+> A collaborative platform for sharing and discovering creative ideas, featuring trending feeds, interaction tracking, and a modular UI.  
+🔗 [GitHub](https://github.com/hasibzero/ideavault)  
+⚙️ **Tech:** Next.js · React · Tailwind CSS · Radix UI
 
 ---
 
-### 📰 Dragon News
-> A dynamic news portal web application featuring category-based news filtering and user authentication.  
-🔗 [GitHub](https://github.com/hasibzero/dragon-news)  
-⚙️ **Tech:** React.js · React Router · Tailwind CSS · Firebase
+### 🗣️ English Janala
+> An interactive language learning platform featuring dynamic vocabulary lessons, real-time search, and Web Speech API Text-to-Speech integration.  
+🔗 [GitHub](https://github.com/hasibzero)  
+⚙️ **Tech:** React.js · JavaScript · Web Speech API · Tailwind CSS
 
 ---
 
 ## Profile Views
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=hasibzeo&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=hasibzero&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 <!-- Footer Wave -->
