@@ -73,10 +73,7 @@
 
 ---
 
-### 🗣️ English Janala
-> An interactive language learning platform featuring dynamic vocabulary lessons, real-time search, and Web Speech API Text-to-Speech integration.  
-🔗 [GitHub](https://github.com/hasibzero)  
-⚙️ **Tech:** React.js · JavaScript · Web Speech API · Tailwind CSS
+
 
 ---
 
