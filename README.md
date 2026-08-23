@@ -42,7 +42,7 @@
 <p align="center">
   <a href="https://fb.com/hasibzero"><img src="https://skillicons.dev/icons?i=facebook" /></a>
   <a href="https://linkedin.com/in/hasibzero"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="https://hasibzero.github.io/myportofolio/"><img src="https://skillicons.dev/icons?i=devto" /></a>
+  <a href="https://hasibzero.github.io/myportfolio/"><img src="https://skillicons.dev/icons?i=devto" /></a>
 </p>
 
 ---
