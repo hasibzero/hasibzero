@@ -59,10 +59,18 @@
 
 ---
 
+### 🌟 CrowdFundly 
+> A full-stack wisdom-sharing platform featuring role-based user/admin dashboards, Stripe monetization workflows, and content moderation.  
+🔗 [GitHub](https://github.com/hasibzero/CrowdFundly-Client)  
+⚙️ **Tech:** Next.js · React · Tailwind CSS · Stripe API
+
+---
+---
+
 ### 🌟 Life Lesson Platform
 > A full-stack wisdom-sharing platform featuring role-based user/admin dashboards, Stripe monetization workflows, and content moderation.  
 🔗 [GitHub](https://github.com/hasibzero/life-lesson-client)  
-⚙️ **Tech:** Next.js · React · Tailwind CSS · Stripe API
+⚙️ **Tech:** Next.js · React · Tailwind CSS · Stripe API Hero UI
 
 ---
 
