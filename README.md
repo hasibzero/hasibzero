@@ -53,7 +53,7 @@
 
 | Category | Technologies |
 | :--- | :--- |
-| **Frontend** | <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap" /> |
+| **Frontend** | <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap" /> |
 | **Backend & DB** | <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" /> |
 | **Tools & Ecosystem** | <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel" /> |
 
