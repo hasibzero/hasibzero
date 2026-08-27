@@ -1,3 +1,4 @@
+
 <!-- Header Banner -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:312e81,100:7c3aed&height=200&section=header&text=Hasib%20S.&fontSize=48&fontColor=ffffff&animation=fadeIn" width="100%" />
@@ -53,9 +54,9 @@
 
 | Category | Technologies |
 | :--- | :--- |
-| **Frontend** | <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap" /> |
+| **Frontend** | <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap" /> |
 | **Backend & DB** | <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" /> |
-| **Tools & Ecosystem** | <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel" /> |
+| **Tools & Ecosystem** | <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,vercel" /> |
 
 </div>
 
@@ -78,8 +79,8 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hasibzero&show_icons=true&theme=dracula&hide_border=true&title_color=a855f7&icon_color=a855f7&text_color=94a3b8&bg_color=0f172a" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasibzero&layout=compact&theme=dracula&hide_border=true&title_color=a855f7&text_color=94a3b8&bg_color=0f172a" width="48%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=hasibzero&show_icons=true&theme=dracula&hide_border=true&title_color=a855f7&icon_color=a855f7&text_color=94a3b8&bg_color=0f172a" width="48%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=hasibzero&layout=compact&theme=dracula&hide_border=true&title_color=a855f7&text_color=94a3b8&bg_color=0f172a" width="48%" />
 </p>
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=hasibzero&theme=dracula&hide_border=true&background=0F172A&ring=A855F7&fire=A855F7&currStreakLabel=A855F7" width="96.5%" />
@@ -92,7 +93,7 @@
 <p align="center">
   <a href="https://linkedin.com/in/hasibzero" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://fb.com/hasibzero" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
-  <a href="https://hasibzero.github.io/myportfolio/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://www.hasibsarkar.eu.org/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
   <a href="mailto:hasibsarkar98@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
@@ -106,3 +107,4 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:312e81,100:0f172a&height=120&section=footer" width="100%" />
 </p>
+```
