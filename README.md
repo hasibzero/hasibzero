@@ -1,4 +1,3 @@
-
 <!-- Header Banner -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:312e81,100:7c3aed&height=200&section=header&text=Hasib%20S.&fontSize=48&fontColor=ffffff&animation=fadeIn" width="100%" />
@@ -39,7 +38,7 @@
       <ul>
         <li>📍 <b>Location:</b> Dhaka, Bangladesh</li>
         <li>📧 <b>Email:</b> <a href="mailto:hasibsarkar98@gmail.com">hasibsarkar98@gmail.com</a></li>
-        <li>🌐 <b>Portfolio:</b> <a href="https://hasibzero.github.io/myportfolio/">hasibzero.github.io</a></li>
+        <li>🌐 <b>Portfolio:</b> <a href="https://www.hasibsarkar.eu.org/">hasibsarkar.eu.org</a></li>
         <li>💼 <b>LinkedIn:</b> <a href="https://linkedin.com/in/hasibzero">in/hasibzero</a></li>
       </ul>
     </td>
@@ -79,8 +78,8 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=hasibzero&show_icons=true&theme=dracula&hide_border=true&title_color=a855f7&icon_color=a855f7&text_color=94a3b8&bg_color=0f172a" width="48%" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=hasibzero&layout=compact&theme=dracula&hide_border=true&title_color=a855f7&text_color=94a3b8&bg_color=0f172a" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hasibzero&theme=dracula" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hasibzero&theme=dracula" width="48%" />
 </p>
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=hasibzero&theme=dracula&hide_border=true&background=0F172A&ring=A855F7&fire=A855F7&currStreakLabel=A855F7" width="96.5%" />
@@ -107,4 +106,3 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:312e81,100:0f172a&height=120&section=footer" width="100%" />
 </p>
-```
